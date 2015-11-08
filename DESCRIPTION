@@ -1,0 +1,12 @@
+Package: vennplus
+Type: Package
+Title: Modification of the Plotrix function "intersectDiagram", an alternative to the Venn diagram
+Version: 0.1
+Date: 2015-11-06
+Author: Mamadou Ndiaye
+Maintainer: Mamadou Ndiaye <epinotes@gmail.com>
+URL: http://github.com/epinotes/vennplus
+Description: Modify the function "intersectDiagram" from the R-package plotrix in order to remove the boxed-label and replace it with the shadowed text provided by the function "shadowtext"(R-package TeachingDemos)
+License: What license is it under?
+LazyData: TRUE
+Suggests: testthat
